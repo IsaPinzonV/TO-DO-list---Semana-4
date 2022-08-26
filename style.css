@@ -104,3 +104,7 @@ h4 {
     color: #060606;
     font-weight: 300;
 }
+
+.listaTareas>li{
+    margin-bottom: 10px;
+}
