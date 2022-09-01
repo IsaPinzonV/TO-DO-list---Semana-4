@@ -97,7 +97,7 @@ h4 {
     padding: 5%;
 }
 
-.listaTareas{
+.listaActividades{
     list-style:circle;
     font-family: "Montserrat", sans-serif;
     font-size: 17px;
@@ -105,6 +105,14 @@ h4 {
     font-weight: 300;
 }
 
-.listaTareas>li{
+.listaActividades>li{
     margin-bottom: 10px;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+.unchecked {
+ color: rgb(0, 0, 131);
 }
